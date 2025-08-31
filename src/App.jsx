@@ -1,6 +1,5 @@
-import { useState } from 'react'
 import './App.css'
-import MoviesFormSurvey from './component/Form'
+import MoviesFormSurvey from './components/Form'
 
 function App() {
   return (
